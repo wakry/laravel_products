@@ -31,7 +31,7 @@
             <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="form-group">
                     <strong>description:</strong>
-                    <textarea class="form-control" style="height:150px" name="Description" placeholder="Description">{{ $product->description }}</textarea>
+                    <textarea class="form-control" style="height:150px" name="description" placeholder="Description">{{ $product->description }}</textarea>
                 </div>
             </div>
 

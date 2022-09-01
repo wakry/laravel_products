@@ -22,9 +22,8 @@
     <form  action="search" method="get" class="input-group mb-3 col-lg-6 offset-lg-3">
         <div class="input-group">
             <input name="q" type="text" class="form-control" placeholder="Serach for a product" aria-describedby="basic-addon2">
-            <div class="input-group-append ">
-                <button class="btn btn-success" type="submit">Search</button>
-            </div>
+            <button class="button-1" type="submit">Search</button>
+
         </div>
     </form>
 
